@@ -1,0 +1,15 @@
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/bin/Debug/net6.0/Tictactoe1
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/bin/Debug/net6.0/Tictactoe1.deps.json
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/bin/Debug/net6.0/Tictactoe1.runtimeconfig.json
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/bin/Debug/net6.0/Tictactoe1.dll
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/bin/Debug/net6.0/Tictactoe1.pdb
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.csproj.AssemblyReference.cache
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.AssemblyInfoInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.AssemblyInfo.cs
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.dll
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/refint/Tictactoe1.dll
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.pdb
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/Tictactoe1.genruntimeconfig.cache
+/Users/abdelhamid/Desktop/assigmentcp/Tictactoe1/Tictactoe1/obj/Debug/net6.0/ref/Tictactoe1.dll
